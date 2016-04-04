@@ -26,10 +26,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#2c2c2c"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -43,18 +43,18 @@
           },
           "_anchor": "menu-0",
           "_params": {
-            "color": "#2c2c2c",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "showButtons": false
           },
           "logo": {
             "image": {
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/clip4423-800x543-22.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -64,7 +64,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DOPOMOGA</a>",
+          "brand": "<a class=\"mbr-brand__name text-danger\" data-app-btn=\"true\" href=\"http://dopomoga.github.io/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DOPOMOGA</a>",
           "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
@@ -75,14 +75,22 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#000000"
+              "color": "#efefef"
+            },
+            "H1": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/16467530-xl-2812x1875-74.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-pic1-1680x644-88.jpg",
             "bgColor": "#1abc9c",
             "bgColorRadio": false,
             "bgVideo": {
@@ -98,9 +106,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "Test<br>",
-          "text": "Привіт. банан, курица, яйцо. Київ, Україна. &nbsp;icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "title": "Хто ми?<br>",
+          "text": "Эта информация может быть вам полезна если вы за последние 3 года (срок исковой давности) попадали в аварии не по своей вине и по вашему мнению страховая компания не полностью возместила причиненный ущерб. Если у вас были такие страховые случаи, то мы можем помочь вам получить дополнительную компенсацию без финансовых вложений с вашей стороны на независимую оценку и юридические услуги.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Детальніше</a>"
         },
         {
           "_name": "footer1",
@@ -115,7 +123,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2016 Dopomoga. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         },
         {
           "_name": "form1",
